@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655280541215",
+    "project_id": "zest-e49d2",
+    "storage_bucket": "zest-e49d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655280541215:android:e640efd4fbc5c38c9d8f2a",
+        "android_client_info": {
+          "package_name": "com.washir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWMakB6wXJuRptcwFPKFzHa4H_482jx34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

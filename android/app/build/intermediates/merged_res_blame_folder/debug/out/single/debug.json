@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.washir.app-main-7:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_images_profile.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/images_profile.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.washir.app-main-7:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_images_home.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/images_home.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.washir.app-main-7:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_images_log.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/images_log.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.washir.app-main-7:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_images_on1.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/images_on1.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_images_history.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/images_history.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.washir.app-main-7:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.washir.app-main-7:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.washir.app-main-7:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_images_pay.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/images_pay.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_images_on3.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/images_on3.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.washir.app-main-7:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.washir.app-main-7:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_images_log2.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/images_log2.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_images_car.jpeg.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/images_car.jpeg"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.washir.app-main-7:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.washir.app-main-7:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_node_modules_reactnativebouncycheckbox_build_dist_check.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/node_modules_reactnativebouncycheckbox_build_dist_check.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.washir.app-main-7:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.washir.app-main-7:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_images_on2.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/images_on2.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_images_log3.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/images_log3.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.washir.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "com.washir.app-main-7:/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "com.washir.app-merged_res-5:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.washir.app-main-7:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    }
+]
